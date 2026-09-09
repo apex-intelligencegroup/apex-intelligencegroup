@@ -2,6 +2,8 @@
 
 I'm **Brian**, the builder behind **Apex Intelligence**. I build software for research, local AI, and better decisions.
 
+[LinkedIn](https://www.linkedin.com/in/brianwperez/) · [Apex Intelligence](https://apexintelligencelabs.com)
+
 My background spans mechanical engineering and quantitative economics. I work with Claude, Codex, and local models, with a focus on clear requirements, useful tests, and recoverable systems.
 
 ## Selected work
