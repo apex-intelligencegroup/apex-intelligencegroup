@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="440" viewBox="0 0 1500 440">
+<title>Apex Intelligence - AI systems, built to run.</title>
+<rect width="1500" height="440" fill="#f7f6f2"/>
+<g fill="none" stroke="#d5d2c9" stroke-width="1.5">
+<path d="M1080 60V380M1120 60V380M1160 60V380M1200 60V380M1240 60V380M1280 60V380M1320 60V380M1360 60V380M1400 60V380"/>
+<path d="M1050 100H1420M1050 140H1420M1050 180H1420M1050 220H1420M1050 260H1420M1050 300H1420M1050 340H1420"/>
+</g>
+<path d="M1090 330L1210 80H1250L1370 330H1310L1228 151L1148 330Z" fill="#292924"/>
+<path d="M1184 253H1273L1298 305H1159Z" fill="#b6a788"/>
+<text x="70" y="83" font-family="Helvetica, Arial, sans-serif" font-size="24" letter-spacing="4" fill="#5d5a52">BRIAN / APEX INTELLIGENCE</text>
+<text x="66" y="213" font-family="Helvetica, Arial, sans-serif" font-weight="700" font-size="91" fill="#292924">AI systems,</text>
+<text x="66" y="312" font-family="Helvetica, Arial, sans-serif" font-weight="700" font-size="91" fill="#292924">built to run.</text>
+<text x="72" y="386" font-family="Helvetica, Arial, sans-serif" font-size="25" fill="#5d5a52">Local compute. Research workflows. Software that earns its place.</text>
+</svg>
